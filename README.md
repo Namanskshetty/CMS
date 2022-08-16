@@ -1,5 +1,5 @@
 # CMS
-This a java and jdbc based canteen managment system with easy steps and .sql files for faster running of the files
+This is a java and jdbc based canteen managment system with easy steps and .sql files for faster running of the files
 ### Prerequisite
 * <a href="https://www.oracle.com/java/technologies/downloads/">Java</a> or <a href="https://www.eclipse.org/downloads/">Eclipse</a>
 * <a href="https://dev.mysql.com/downloads/workbench/">Mysql command line</a>
