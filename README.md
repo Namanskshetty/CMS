@@ -8,7 +8,7 @@ This is a java and jdbc based canteen managment system with easy steps and .sql 
    ```sh
     git clone https://github.com/Namanskshetty/CMS.git
     ```
- 2. Create a database ***cms*** in mysql and import all the tables in cms sql files and continue with the below steps
+ 2. Create a database ```CMS``` in mysql and import all the tables in cms sql files and continue with the below steps
  3. Open the src/com/DBUtil.java and find ![alt text](https://github.com/namanskshetty/CMS/blob/main/src/com/image.png?raw=true) 
  4. Change the username and password accordingly.
  5. then go back to src and go to src/jdbc .
