@@ -14,4 +14,4 @@ This a java and jdbc based canteen managment system with easy steps and .sql fil
  5. then go back to src and go to src/jdbc .
  6. Compile all the files and run LoginSelection.java and main method file.
  
-# Feel free to add changes and collbrate.
+# Feel free to add changes and collaborate.
