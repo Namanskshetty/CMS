@@ -9,7 +9,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 import com.DBUtil;
-//This is project is done by Naman@hexaware.com
+//This is project is done by https://github.com/Namanskshetty/CMS/
 public class vendorlogin {
 	int count=0;
 	public void enter() throws IOException, SQLException{
